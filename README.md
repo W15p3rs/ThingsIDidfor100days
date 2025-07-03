@@ -12,3 +12,5 @@
 
 ## Diary start
 1/07/2025 - Setup day and C++ practise
+2/07/2025 - C++ learning
+3/07/2025 - I want to finish the codecademy C++ module and move onto cybersec
