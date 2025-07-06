@@ -15,3 +15,5 @@
 * 2/07/2025 - C++ learning
 * 3/07/2025 - Finished the codecademy C++ module Started working on Comptia A+ Core
 * 4/07/2025 - Worked on Comptia A+ Core and did a quick sample assessment as an overview
+* 5/07/2025 - Worked on Comptia A+ Core and did some programming with C++
+* 6/07/2025 - Worked on C++ Leetcode questions as some practise
