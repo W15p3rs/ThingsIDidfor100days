@@ -17,3 +17,4 @@
 * 4/07/2025 - Worked on Comptia A+ Core and did a quick sample assessment as an overview
 * 5/07/2025 - Worked on Comptia A+ Core and did some programming with C++
 * 6/07/2025 - Worked on C++ Leetcode questions as some practise
+* 7/08/2025 - Worked on website 
