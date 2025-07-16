@@ -18,3 +18,7 @@
 * 5/07/2025 - Worked on Comptia A+ Core and did some programming with C++
 * 6/07/2025 - Worked on C++ Leetcode questions as some practise
 * 7/08/2025 - Worked on website 
+
+## Restart
+
+15/07/2025 - Finished Mobile device accessories and network connectivity
