@@ -21,4 +21,4 @@
 
 ## Restart
 
-15/07/2025 - Finished Mobile device accessories and network connectivity
+1/08/2025
