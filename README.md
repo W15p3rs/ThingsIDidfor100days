@@ -21,4 +21,4 @@
 
 ## Restart
 
-1/08/2025
+06/08/2025 - Finished 3 hours of C++ coding, made a c++ library manager
